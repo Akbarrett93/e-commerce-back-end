@@ -24,7 +24,11 @@
 
   ## Usage
   Open the terminal, load your database using MySQL, seed your database then use "node server.js" to start up the server.
-  ![commercebackendtest](https://user-images.githubusercontent.com/118003612/231325910-f0e244f3-c732-433c-b5f9-f8c474a4448b.gif)
+  
+  
+  https://user-images.githubusercontent.com/118003612/231327197-e85c6a1b-6835-4f95-a893-9da5725f8d2f.mp4
+
+
 
   ## Questions
   Have questions? Contact me at:
